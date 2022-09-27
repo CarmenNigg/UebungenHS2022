@@ -1,0 +1,43 @@
+  header {
+      color:black;
+      background-color: lightblue;
+      font-family: monospace;
+      text-align: center;
+      padding: 20px;
+  }
+  nav{
+    text-align: center;
+  }
+   h2 {
+      color: rgb(255, 255, 255);
+      background-color: lightblue;
+      text-align: center;
+      font-weight: lighter;
+  }
+  p {
+     font-family: Helvetica;
+  }
+  h3{
+    color: black;
+    font-family: monospace; font-weight: bold;
+  }
+  body{
+    background-color: royalblue;
+  }
+
+  footer {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  a:link{ 
+    color: white;
+  }
+  a:visited{
+    color: black;
+  }
+
+  article{
+    border: solid; background-color: lightblue; padding: 10px;
+  }
